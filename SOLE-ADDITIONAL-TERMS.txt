@@ -1,0 +1,15 @@
+SOLE Additional Terms under GNU AGPLv3 Section 7
+================================================
+
+Copyright (C) 2026 Sole Computer.
+
+Sole Engine remains licensed AGPL-3.0-only. These terms use only the
+permissions in GNU AGPLv3 Section 7 and do not change the rights granted by
+that license. This notice does not impose any further restriction.
+
+1. You must preserve the copyright and license notices in readme.txt and this
+   file.
+2. You must not misrepresent the origin of the material.
+3. Modified versions must be marked as modified in reasonable ways.
+4. You must not use SOLE names for publicity without prior written permission.
+5. No trademark rights are granted under the SOLE names or marks.
